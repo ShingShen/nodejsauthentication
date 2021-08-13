@@ -5,7 +5,7 @@
 * -D, --save-dev: Package will appear in your devDependencies.<br>
 
 **Run Server**
-npm run dev
+1. npm run dev
 
 **exchange of package.json:**
 ```

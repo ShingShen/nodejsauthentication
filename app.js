@@ -23,7 +23,7 @@ app.use(expressLayouts);
 app.set('view engine', 'ejs');
 
 
-// Bodypaeser
+// Bodyparser
 app.use(express.urlencoded({ extended: false }));
 
 // Express Session
